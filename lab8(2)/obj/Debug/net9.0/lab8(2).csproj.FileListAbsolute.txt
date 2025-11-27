@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\design patterns\lab8(2)\bin\Debug\net9.0\lab8(2).exe
+C:\Users\user\Desktop\design patterns\lab8(2)\bin\Debug\net9.0\lab8(2).deps.json
+C:\Users\user\Desktop\design patterns\lab8(2)\bin\Debug\net9.0\lab8(2).runtimeconfig.json
+C:\Users\user\Desktop\design patterns\lab8(2)\bin\Debug\net9.0\lab8(2).dll
+C:\Users\user\Desktop\design patterns\lab8(2)\bin\Debug\net9.0\lab8(2).pdb
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\lab8(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\lab8(2).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\lab8(2).AssemblyInfo.cs
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\lab8(2).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\lab8(2).dll
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\refint\lab8(2).dll
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\lab8(2).pdb
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\lab8(2).genruntimeconfig.cache
+C:\Users\user\Desktop\design patterns\lab8(2)\obj\Debug\net9.0\ref\lab8(2).dll
